@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import ttk
 from random import *
 
-# Create Object
+# Create an Object
 root = Tk()
 
 # Set geometry
@@ -11,7 +11,7 @@ root.geometry("500x500")
 
 root.title("Rock-Paper-Scissors-Game")
 
-# List of players
+# List of Players
 list = ["rock","paper","scissors"]
 
 choose_number = randint(0,2)
