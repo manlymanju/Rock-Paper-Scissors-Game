@@ -5,14 +5,15 @@ This is a simple Rock Paper Scissors game built using Python and the Tkinter lib
 The game allows a user to select Rock, Paper, or Scissors, and the computer randomly chooses one option.
 Based on both choices, the game displays whether the user wins, loses, or ties.
 This project is created mainly to practice Python basics, logical thinking, and GUI development.
-Features
 
+Features:
 Simple and clean graphical interface
 Dropdown selection for user choice
 Random computer choice
 Displays result: Win, Lose, or Tie
 Beginner-friendly code structure
-Technologies Used
+
+Technologies Used:
 Python
 Tkinter (for GUI)
 Random module
