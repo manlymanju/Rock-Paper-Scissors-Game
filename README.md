@@ -48,7 +48,6 @@ Improve UI design
 Add sound effects
 Convert the game into an executable file
 
-Author
-Sri Manju Rasagna Nampalli
+Author - Sri Manju Rasagna Nampalli
 
 This project is created for learning and practice purposes.
