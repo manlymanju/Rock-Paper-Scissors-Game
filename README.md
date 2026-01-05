@@ -46,7 +46,7 @@ Future Improvements
 Add score tracking
 Improve UI design
 Add sound effects
-Convert the game into an executable file
+Convert the game into an executable file.
 
 Author - Sri Manju Rasagna Nampalli
 
